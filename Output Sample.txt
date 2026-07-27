@@ -1,0 +1,37 @@
+============================================================
+ DOMAIN-SPECIFIC Q&A CHATBOT APPLICATION 
+============================================================
+ Dataset saved to 'qa_dataset.csv'
+ Total Q&A pairs: 40
+
+ Choose an option:
+1. Run demonstration (sample questions)
+2. Run interactive chatbot
+3. Exit
+
+============================================================
+ DOMAIN-SPECIFIC Q&A CHATBOT 
+============================================================
+Welcome! I can answer questions about:
+• Technology (AI, ML, Programming, etc.)
+• Health & Wellness
+• Education & Learning
+• General Knowledge
+
+How to use:
+• Type your question and I'll find the best answer
+• Type 'exit' or 'quit' to end the conversation
+• Type 'info' to see all available topics
+============================================================
+
+ Dataset loaded with 40 Q&A pairs
+ Vector dimensions: (40, 113)
+==================================================
+
+ Bot: The capital of France is Paris. (Confidence: 100.00%)
+
+ Bot: AI (Artificial Intelligence) is the simulation of human intelligence in machines that are programmed to think and learn like humans. (Confidence: 73.58%)
+
+ Bot: AI (Artificial Intelligence) is the simulation of human intelligence in machines that are programmed to think and learn like humans. (Confidence: 73.58%)
+
+ Bot: Online learning is education that takes place over the internet, offering flexible, accessible, and often self-paced learning opportunities. (Confidence: 100.00%)
